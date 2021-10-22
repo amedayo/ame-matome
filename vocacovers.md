@@ -25,4 +25,4 @@ VOCALOID、UTAU、SYNTHVなどのカバーのまとめです。
 - [Henceforth](https://www.nicovideo.jp/watch/sm36898361) (Orangestar) | SC:2020/06/30 \/ NND:2021/02/27 | [SC](https://soundcloud.com/candyfuru/henceforthvocaloid-vsqx)（リン ver.）/ [NND](https://www.nicovideo.jp/watch/sm38328938) （琴葉茜・葵 ver.） 🎵
 - [限りなく灰色へ](https://www.nicovideo.jp/watch/sm38335870) (short ver.)（すりぃ） ／塩音ルト | 2021/03/12 | [SC](https://soundcloud.com/candyfuru/short-verutauust-1) 🎵
 - [霽れを待つ](https://www.nicovideo.jp/watch/sm38099931) (Orangestar) ／鏡音リン | 2021/02/05 | [NND](https://www.nicovideo.jp/watch/sm38221933)/[YT](https://www.youtube.com/watch?v=6_wp0fc7XSs)/[SC](https://soundcloud.com/candyfuru/vocaloidvsqx-1) 🎵
-
+ 
