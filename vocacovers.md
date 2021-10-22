@@ -1,12 +1,20 @@
 # 「ame。」のカバーまとめ
 VOCALOID、UTAU、SYNTHVなどのカバーのまとめです。   
-クレジットは動画の投稿文に書いてます。✏️ 
+クレジットは動画の投稿文に書いてます。✏️    
+
+このページのフォーマットは：
+```
+[曲タイトル](本家の投稿URL) （本家）　／シンガー | 投稿日時 | [サイトで投稿のURL]
+```
 
 ----
 
-📹 = オリジナルMVがある   
-🎵 = UST／VSQxファイル配布がある   
+📹 = オリジナルMVがある（他人も作ったことがある）   
+🎵 = [UST／VSQxファイル配布](https://ustvsqx.crd.co/)がある   
 
+---- 
+
+## 2021
 
 - [情景模型](https://www.nicovideo.jp/watch/sm37946948) (末代雨季。) ／鏡音リン | 2021/10/10 | [NND](https://www.nicovideo.jp/watch/sm39428934)/[YT](https://youtu.be/ypZKKr7wylI)/[SC](https://t.co/uCgVB9PWJm) 📹🎵
 - [世界寿命と最後の一日](https://www.nicovideo.jp/watch/sm21758815) (スズム) ／可不(KAFU) | 2021/09/24 | [YT](https://www.nicovideo.jp/watch/sm21758815)/[SC](https://soundcloud.com/candyfuru/kafu) 
