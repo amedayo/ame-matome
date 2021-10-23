@@ -17,7 +17,7 @@ VOCALOID、UTAU、SYNTHVなどのカバーのまとめです。
 ## 2021
 
 - [情景模型](https://www.nicovideo.jp/watch/sm37946948) (末代雨季。) ／鏡音リン | 2021/10/10 | [NND](https://www.nicovideo.jp/watch/sm39428934)/[YT](https://youtu.be/ypZKKr7wylI)/[SC](https://t.co/uCgVB9PWJm) 📹🎵
-- [世界寿命と最後の一日](https://www.nicovideo.jp/watch/sm21758815) (スズム) ／可不(KAFU) | 2021/09/24 | [YT](https://www.nicovideo.jp/watch/sm21758815)/[SC](https://soundcloud.com/candyfuru/kafu) 
+- [世界寿命と最後の一日](https://www.nicovideo.jp/watch/sm21758815) (スズム) ／可不(KAFU) | 2021/09/24 | [YT](https://www.youtube.com/watch?v=hrPhz3bcOg0)/[SC](https://soundcloud.com/candyfuru/kafu) 
 - [グッバイ宣言](https://www.nicovideo.jp/watch/sm36668789) (Chinozo) ／音街ウナ | 2021/09/10 | NND/YT/SC 📹🎵
 - [夏の魔法](https://www.nicovideo.jp/watch/sm29741205) (\*Luna) ／鏡音リン | 2021/08/14 | NND/YT/SC 📹🎵
 - [ありふれたせかいせいふく](https://www.nicovideo.jp/watch/sm18131841) （ピノキオピー）／小春六花 | 2021/04/30 | NND/YT/SC 🎵
