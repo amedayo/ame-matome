@@ -29,4 +29,12 @@ VOCALOID、UTAU、SYNTHVなどのカバーのまとめです。
 ## 2020   
  
 - [そして「誓い」を交わして](https://www.nicovideo.jp/watch/sm36936564) （歌惹(カジャ)）／鏡音リン | 2020/12/25 | [NND](https://www.nicovideo.jp/watch/sm37998645)/[YT](https://www.youtube.com/watch?v=EnSCMDo82mo)/[SC](https://soundcloud.com/candyfuru/vocaloidvsqx)
- 
+- [セカイ](https://www.youtube.com/watch?v=9vyIPWBeRes) （DECO\*27・堀江晶太(kemu)）／重音テト | 2020/11/13 | [NND](https://www.nicovideo.jp/watch/sm37797881)/[YT](https://www.nicovideo.jp/watch/sm37797881)/[SC](https://soundcloud.com/candyfuru/utauust-1) 📹🎵
+- [二足歩行(Reloaded)](https://www.youtube.com/watch?v=iM8d0SzJTIU) （DECO\*27）／塩音ルト | 2020/09/04 | [NND](https://www.nicovideo.jp/watch/sm37456387)/[YT]()/[SC]() 📹
+- [カラーコピー](https://www.nicovideo.jp/watch/sm36153305) (niki) ／音街ウナ・Rana | 2020/08/14 | [NND]()/[YT]()/[SC]()
+- [やっぱり雨は降るんだね](https://www.youtube.com/watch?v=D0ehC_8sQuU) （ツユ）／鏡音リン | 2020/07/17 | [NND]()/[YT]()/[SC]() 📹
+- [幽霊東京](https://www.nicovideo.jp/watch/sm36036629) (Ayase) ／音街ウナ | 2020/06/20 | [NND]()/[YT]()/[SC]()
+- [キルマー](https://www.nicovideo.jp/watch/sm35980813) （煮ル果実）／暗鳴ニュイ | 2020/05/21 | [NND]()/[YT]()/[SC]() 📹
+- [アトミック恋心](https://www.youtube.com/watch?v=JIdF-QzPJTw) （ナユタン星人）／AIきりたん | 2020/05/04 | [NND]()/[YT]()/[SC]()
+- [Scattered Glass](https://www.nicovideo.jp/watch/sm35934228) (cillia) ／音街ウナ | 2020/03/06 | [NND]()/[YT]()/[SC]() 📹
+- [Decode](https://www.nicovideo.jp/watch/sm36180422) (niki) ／GUMI | 2020/01/05 | [NND]()/[YT]()/[SC]()
