@@ -9,7 +9,7 @@ VOCALOID、UTAU、SYNTHVなどのカバーのまとめです。
 
 ----
 
-📹 = オリジナルMVがある
+📹 = オリジナルMVがある   
 🎵 = [UST／VSQxファイル配布](https://ustvsqx.crd.co/)がある   
 
 ---- 
