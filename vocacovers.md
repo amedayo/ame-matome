@@ -49,4 +49,12 @@ VOCALOID、UTAU、SYNTHVなどのカバーのまとめです。
 - [猿マネ椅子盗りゲーム](https://www.nicovideo.jp/watch/sm19216490) (150P) ／暗鳴ニュイ | 2019/10/31 | [NND](https://www.nicovideo.jp/watch/sm35780713)/[YT](https://www.youtube.com/watch?v=TR4pJs_FI_c)/[SC](https://soundcloud.com/candyfuru/utau-3)
 - [或る街のギギ](https://www.nicovideo.jp/watch/sm31743954) (sasakure.UK) ／ちゃろえもん | 2019/10/18 | [NND](https://www.nicovideo.jp/watch/sm35828908)/[YT](https://www.youtube.com/watch?v=_ADoQhjeG_o) 🎵
 - [シンセカイ案内所](https://www.nicovideo.jp/watch/sm35675654) (DECO\*27) ／塩音ルト | 2019/09/20 | [NND](https://www.nicovideo.jp/watch/sm35700387)/[YT](https://www.youtube.com/watch?v=f7o1W6SQyhI)/[SC](https://soundcloud.com/candyfuru/utau-ust) 🎵
-
+- [感傷マゾヒスト](https://www.nicovideo.jp/watch/sm33747740) (cosMo＠暴走P) ／Rana | 2019/08/25 | [NND](https://www.nicovideo.jp/watch/sm35588218)/[YT](https://www.youtube.com/watch?v=Nxw8ZPgnkng) 🎵
+- [曖昧劣情Lover](https://www.nicovideo.jp/watch/sm24237168) (koyori) ／音街ウナ | 2019/08/14 | [NND](https://www.nicovideo.jp/watch/sm35516136)/[YT](https://www.youtube.com/watch?v=Temu4gbRT_M) 📹
+- [悪戯](https://www.nicovideo.jp/watch/sm24947647) 田中秀和(MONACA) ／[遊歌ユイ](https://soundcloud.com/decosecond/utau-crossfade-demo-reel-ft-yui-yuukavb) | 2019/07/07 | [NND](https://www.nicovideo.jp/watch/sm35366214) 🎵
+- [グラーヴェ](https://www.nicovideo.jp/watch/sm30960061) (niki) ／GUMI | 2019/06/26 | [NND](https://www.nicovideo.jp/watch/sm35316055)
+- [キャラメルヘヴン](https://www.nicovideo.jp/watch/sm24725887) (Last Note.) | 2019/06/10 | [NND](https://www.nicovideo.jp/watch/sm35206160)/[SC](https://soundcloud.com/candyfuru/vocaloid)
+- [君と僕とその空白と](https://www.nicovideo.jp/watch/sm22039435) （のぼる↑）| 2019/05/25 | [NND](https://www.nicovideo.jp/watch/sm35164951)/[SC](https://soundcloud.com/candyfuru/utauust) 📹🎵
+- [アイボリー](https://www.nicovideo.jp/watch/sm34412675) (Aqu3ra) ／塩音ルト | 2019/04/30 | [NND](https://www.nicovideo.jp/watch/sm35041348)/[YT](https://www.youtube.com/watch?v=_41w2aHrJGc)/[SC](https://soundcloud.com/candyfuru/utau-2)
+- [ギミック](https://www.nicovideo.jp/watch/sm33045389) (\*Luna) | 2019/04/12 | [NND](https://www.nicovideo.jp/watch/sm34947713) (鳴花ヒメ・ミコト ver.)/[YT](https://www.youtube.com/watch?v=UZf6PbgPzYk) (Rana・音街ウナ ver.)
+- [FLARE](https://www.nicovideo.jp/watch/sm14255363) (niki) ／ゲキヤク | 2019/04/05 | [NND](https://www.nicovideo.jp/watch/sm34889793)/[YT](https://www.youtube.com/watch?v=FZIcZ7Us2XI)/[SC](https://soundcloud.com/candyfuru/flareutau) 📹
