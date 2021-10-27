@@ -8,20 +8,23 @@ VOCALOID、UTAU、SYNTHVなどのカバーのまとめです。
 ```
 
 ----
-
+key:   
 📹 = オリジナルMVがある   
 🎵 = [UST／VSQxファイル配布](https://ustvsqx.crd.co/)がある   
+
+NND = ニコニコ動画(**N**ico**N**ico**D**ouga) , YT = **Y**ou**T**ube , SC = **S**ound**C**loud   
 
 ---- 
 
 ## 2021
 
-- [情景模型](https://www.nicovideo.jp/watch/sm37946948) (末代雨季。) ／鏡音リン | 2021/10/10 | [NND](https://www.nicovideo.jp/watch/sm39428934)/[YT](https://youtu.be/ypZKKr7wylI)/[SC](https://t.co/uCgVB9PWJm) 📹🎵
+- [情景模型](https://www.nicovideo.jp/watch/sm37946948) (末代雨季。) ／鏡音リン | 2021/10/10 | [NND](https://www.nicovideo.jp/watch/sm39428934)/[YT](https://youtu.be/ypZKKr7wylI)/[SC](https://soundcloud.com/candyfuru/vocaloid-3) 📹🎵
 - [世界寿命と最後の一日](https://www.nicovideo.jp/watch/sm21758815) (スズム) ／可不(KAFU) | 2021/09/24 | [YT](https://www.youtube.com/watch?v=hrPhz3bcOg0)/[SC](https://soundcloud.com/candyfuru/kafu) 
-- [グッバイ宣言](https://www.nicovideo.jp/watch/sm36668789) (Chinozo) ／音街ウナ | 2021/09/10 | NND/YT/SC 📹🎵
-- [夏の魔法](https://www.nicovideo.jp/watch/sm29741205) (\*Luna) ／鏡音リン | 2021/08/14 | NND/YT/SC 📹🎵
-- [ありふれたせかいせいふく](https://www.nicovideo.jp/watch/sm18131841) （ピノキオピー）／小春六花 | 2021/04/30 | NND/YT/SC 🎵
-- [タイムマシン](https://www.nicovideo.jp/watch/sm12098837) （1640㍍）／小春六花 | 2021/04/03 | NND/YT/SC 📹
+- [グッバイ宣言](https://www.nicovideo.jp/watch/sm36668789) (Chinozo) ／音街ウナ | 2021/09/10 | [NND](https://www.nicovideo.jp/watch/sm39280150)/[YT](https://www.youtube.com/watch?v=6NYcVhxT0Yg)/[SC](https://soundcloud.com/candyfuru/vocaloidvsqx-3) 📹🎵
+- [Uz](https://www.nicovideo.jp/watch/sm36906240) (Orangestar) ／可不(KAFU) | 2021/08/24 | [SC](https://soundcloud.com/candyfuru/uzkafuvsqx)
+- [夏の魔法](https://www.nicovideo.jp/watch/sm29741205) (\*Luna) ／鏡音リン | 2021/08/14 | [NND](https://www.nicovideo.jp/watch/sm39127615)/[YT](https://www.youtube.com/watch?v=90hHvD2zPAo)/[SC](https://soundcloud.com/candyfuru/vocaloidvsqx-2) 📹🎵
+- [ありふれたせかいせいふく](https://www.nicovideo.jp/watch/sm18131841) （ピノキオピー）／小春六花 | 2021/04/30 | NND/YT/[SC](https://soundcloud.com/candyfuru/g4e1ffjh8fol) 🎵
+- [タイムマシン](https://www.nicovideo.jp/watch/sm12098837) （1640㍍）／小春六花 | 2021/04/03 | [NND](https://www.nicovideo.jp/watch/sm38513224)/[YT](https://www.youtube.com/watch?v=cv6lbMMRWK8)/[SC (AI ver.)](https://soundcloud.com/candyfuru/ai-3) 📹
 - [Henceforth](https://www.nicovideo.jp/watch/sm36898361) (Orangestar) | SC:2020/06/30 / NND:2021/02/27 | [SC](https://soundcloud.com/candyfuru/henceforthvocaloid-vsqx)（リン ver.）/ [NND](https://www.nicovideo.jp/watch/sm38328938) （琴葉茜・葵 ver.） 🎵
 - [限りなく灰色へ](https://www.nicovideo.jp/watch/sm38335870) (short ver.)（すりぃ） ／塩音ルト | 2021/03/12 | [SC](https://soundcloud.com/candyfuru/short-verutauust-1) 🎵
 - [霽れを待つ](https://www.nicovideo.jp/watch/sm38099931) (Orangestar) ／鏡音リン | 2021/02/05 | [NND](https://www.nicovideo.jp/watch/sm38221933)/[YT](https://www.youtube.com/watch?v=6_wp0fc7XSs)/[SC](https://soundcloud.com/candyfuru/vocaloidvsqx-1) 🎵
@@ -58,3 +61,12 @@ VOCALOID、UTAU、SYNTHVなどのカバーのまとめです。
 - [アイボリー](https://www.nicovideo.jp/watch/sm34412675) (Aqu3ra) ／塩音ルト | 2019/04/30 | [NND](https://www.nicovideo.jp/watch/sm35041348)/[YT](https://www.youtube.com/watch?v=_41w2aHrJGc)/[SC](https://soundcloud.com/candyfuru/utau-2)
 - [ギミック](https://www.nicovideo.jp/watch/sm33045389) (\*Luna) | 2019/04/12 | [NND](https://www.nicovideo.jp/watch/sm34947713) (鳴花ヒメ・ミコト ver.)/[YT](https://www.youtube.com/watch?v=UZf6PbgPzYk) (Rana・音街ウナ ver.)
 - [FLARE](https://www.nicovideo.jp/watch/sm14255363) (niki) ／ゲキヤク | 2019/04/05 | [NND](https://www.nicovideo.jp/watch/sm34889793)/[YT](https://www.youtube.com/watch?v=FZIcZ7Us2XI)/[SC](https://soundcloud.com/candyfuru/flareutau) 📹
+- [アンチリアリズム](https://www.nicovideo.jp/watch/sm34718680) (\*Luna) ／暗鳴ニュイ・歌幡メイジ | 2019/03/29 | [NND](https://www.nicovideo.jp/watch/sm34862478)/[YT]/[SC](https://soundcloud.com/candyfuru/antirealism) 🎵
+- [カメリア](https://www.nicovideo.jp/watch/sm31300465) (マル。) ／歌幡メイジ | SC: 2017/09/02 / NND: 2019/03/15 | [NND](https://www.nicovideo.jp/watch/sm34732460)/[SC](https://soundcloud.com/amefuru2/ddp9gvzjcmww)
+- [内臓ありますか](https://www.nicovideo.jp/watch/sm34509853) (ピノキオピー) ／さとうささら | 2019/02/24 | [NND](https://www.nicovideo.jp/watch/sm34682088)
+- [2018](https://www.nicovideo.jp/watch/sm34593328) (niki) ／ちゃろえもん | 2019/02/13 | [NND](https://www.nicovideo.jp/watch/sm34612303)
+- [ノルア・ドルア・エー](https://www.nicovideo.jp/watch/sm34316758) (すりぃ) | 2019/01/16 | [NND](https://www.nicovideo.jp/watch/sm34470118)
+- [このふざけた素晴らしき世界](https://www.nicovideo.jp/watch/sm25379507) (n.k.) | 2019/01/04 | [NND](https://www.nicovideo.jp/watch/sm34427352)
+
+
+**＊2018年以前は黒歴史ので表示しません**
