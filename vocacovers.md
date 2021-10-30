@@ -18,6 +18,7 @@ NND = ニコニコ動画(**N**ico**N**ico**D**ouga) , YT = **Y**ou**T**ube , SC 
 
 ## 2021
 
+- [すきなことだけでいいです](https://www.nicovideo.jp/watch/sm28749432) (ピノキオピー) ／鏡音リン | 2021/10/29 | [NND](https://www.nicovideo.jp/watch/sm39539427)/[YT](https://youtu.be/x-k4xmc5o4U)
 - [情景模型](https://www.nicovideo.jp/watch/sm37946948) (末代雨季。) ／鏡音リン | 2021/10/10 | [NND](https://www.nicovideo.jp/watch/sm39428934)/[YT](https://youtu.be/ypZKKr7wylI)/[SC](https://soundcloud.com/candyfuru/vocaloid-3) 📹🎵
 - [世界寿命と最後の一日](https://www.nicovideo.jp/watch/sm21758815) (スズム) ／可不(KAFU) | 2021/09/24 | [YT](https://www.youtube.com/watch?v=hrPhz3bcOg0)/[SC](https://soundcloud.com/candyfuru/kafu) 
 - [グッバイ宣言](https://www.nicovideo.jp/watch/sm36668789) (Chinozo) ／音街ウナ | 2021/09/10 | [NND](https://www.nicovideo.jp/watch/sm39280150)/[YT](https://www.youtube.com/watch?v=6NYcVhxT0Yg)/[SC](https://soundcloud.com/candyfuru/vocaloidvsqx-3) 📹🎵
