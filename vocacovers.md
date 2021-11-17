@@ -33,7 +33,7 @@ NND = ニコニコ動画(**N**ico**N**ico**D**ouga) , YT = **Y**ou**T**ube , SC 
 ## 2020   
  
 - [そして「誓い」を交わして](https://www.nicovideo.jp/watch/sm36936564) （歌惹(カジャ)）／鏡音リン | 2020/12/25 | [NND](https://www.nicovideo.jp/watch/sm37998645)/[YT](https://www.youtube.com/watch?v=EnSCMDo82mo)/[SC](https://soundcloud.com/candyfuru/vocaloidvsqx)
-- [セカイ](https://www.youtube.com/watch?v=9vyIPWBeRes) （DECO\*27・堀江晶太(kemu)）／重音テト | 2020/11/13 | [NND](https://www.nicovideo.jp/watch/sm37797881)/[YT](https://www.nicovideo.jp/watch/sm37797881)/[SC](https://soundcloud.com/candyfuru/utauust-1) 📹🎵
+- [セカイ](https://www.youtube.com/watch?v=9vyIPWBeRes) （DECO\*27・堀江晶太(kemu)）／重音テト | 2020/11/13 | [NND](https://www.nicovideo.jp/watch/sm37797881)/[YT](hhttps://www.youtube.com/watch?v=Ir6aO-dTRJ0)/[SC](https://soundcloud.com/candyfuru/utauust-1) 📹🎵
 - [二足歩行(Reloaded)](https://www.youtube.com/watch?v=iM8d0SzJTIU) （DECO\*27）／塩音ルト | 2020/09/04 | [NND](https://www.nicovideo.jp/watch/sm37456387)/[YT](https://www.youtube.com/watch?v=wAIAYgQAYuM)/[SC](https://soundcloud.com/candyfuru/reloadedutau) 📹
 - [カラーコピー](https://www.nicovideo.jp/watch/sm36153305) (niki) ／音街ウナ・Rana | 2020/08/14 | [NND](https://www.nicovideo.jp/watch/sm37296439)/[YT](https://www.youtube.com/watch?v=dZRzfgoNxwY)
 - [やっぱり雨は降るんだね](https://www.youtube.com/watch?v=D0ehC_8sQuU) （ツユ）／鏡音リン | 2020/07/17 | [NND](https://www.nicovideo.jp/watch/sm37191362)/[YT](https://www.youtube.com/watch?v=gNIuL7sey2A)/[SC](https://soundcloud.com/candyfuru/vocaloid-2) 📹
