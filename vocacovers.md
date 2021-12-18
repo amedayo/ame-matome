@@ -17,7 +17,7 @@ NND = ニコニコ動画(**N**ico**N**ico**D**ouga) , YT = **Y**ou**T**ube , SC 
 ---- 
 
 ## 2021
-- [Yoiyami Step](https://www.youtube.com/watch?v=vVZ5JMKPaSY) (manika) ／小春六花 | 2021/12/17 | [NND](https://www.nicovideo.jp/watch/sm39744080)/YT(https://www.youtube.com/watch?v=ATT0tUy70Fs)/[SC](https://soundcloud.com/candyfuru/yoiyami-stepmv) 📹
+- [Yoiyami Step](https://www.youtube.com/watch?v=vVZ5JMKPaSY) (manika) ／小春六花 | 2021/12/17 | [NND](https://www.nicovideo.jp/watch/sm39744080)/[YT](https://youtu.be/ATT0tUy70Fs)/[SC](https://soundcloud.com/candyfuru/yoiyami-stepmv) 📹
 - [モザイクロール(Reloaded)](https://www.nicovideo.jp/watch/sm39422060) (DECO\*27) ／可不(KAFU) | 2021/12/03 | [NND](https://www.nicovideo.jp/watch/sm39687950)/[YT](https://www.youtube.com/watch?v=tkffWAAYBxk)/[SC](https://soundcloud.com/candyfuru/reloadedkafu) 📹
 - [瓦礫の塔](https://www.nicovideo.jp/watch/sm39592690) (kemu) ／可不(KAFU) | 2021/11/19 | [NND](https://www.nicovideo.jp/watch/sm39631842)/[YT](https://www.youtube.com/watch?v=-zsPL_Ro2OY)/[SC](https://soundcloud.com/candyfuru/kafu-ust) 📹🎵
 - [すきなことだけでいいです](https://www.nicovideo.jp/watch/sm28749432) (ピノキオピー) ／鏡音リン | 2021/10/29 | [NND](https://www.nicovideo.jp/watch/sm39539427)/[YT](https://youtu.be/x-k4xmc5o4U)
