@@ -16,6 +16,9 @@ NND = ニコニコ動画(**N**ico**N**ico**D**ouga) , YT = **Y**ou**T**ube , SC 
 
 ---- 
 
+## 2022
+- [Palette](https://youtu.be/Ud73fm4Uoq0) (niki, 常闇トワ) ／可不(KAFU) | 2022/01/22 | [NND](https://www.nicovideo.jp/watch/sm39929160)/[YT](https://youtu.be/J3H8JdHVagY)/[SC](https://soundcloud.com/candyfuru/palette-nikikafu) 📹🎵 
+
 ## 2021
 - [Yoiyami Step](https://www.youtube.com/watch?v=vVZ5JMKPaSY) (manika) ／小春六花 | 2021/12/17 | [NND](https://www.nicovideo.jp/watch/sm39744080)/[YT](https://youtu.be/ATT0tUy70Fs)/[SC](https://soundcloud.com/candyfuru/yoiyami-stepmv) 📹
 - [モザイクロール(Reloaded)](https://www.nicovideo.jp/watch/sm39422060) (DECO\*27) ／可不(KAFU) | 2021/12/03 | [NND](https://www.nicovideo.jp/watch/sm39687950)/[YT](https://www.youtube.com/watch?v=tkffWAAYBxk)/[SC](https://soundcloud.com/candyfuru/reloadedkafu) 📹
